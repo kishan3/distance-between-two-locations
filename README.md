@@ -3,7 +3,7 @@
 To calculate distance I have used [haversian formula](https://en.wikipedia.org/wiki/Haversine_formula).
 
 
-##Steps to setup project:
+## Steps to setup project:
 
 1. Install virtual environment for the project using
 [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/).
